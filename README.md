@@ -14,8 +14,11 @@ Welcome to **Cravecrip**, a dynamic and user-friendly food ordering website desi
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/Home%20.png)
 *A clean and modern interface welcoming users to Cravecrip.*
+
+### About
+![About](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/aboutus.png)
 
 ### Menu Page
 ![Menu Page Screenshot](./screenshots/menu.png)
