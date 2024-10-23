@@ -21,19 +21,19 @@ Welcome to **Cravecrip**, a dynamic and user-friendly food ordering website desi
 ![About](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/aboutus.png)
 
 ### Menu Page
-![Menu Page Screenshot](./screenshots/menu.png)
+![Menu Page Screenshot](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/menu.png)
 *View a list of delicious food items, easily add them to the cart.*
 
 ### Cart Page
-![Cart Page Screenshot](./screenshots/cart.png)
+![Cart Page Screenshot](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/cart.png)
 *Manage your selected food items before checking out.*
 
 ### Checkout Page
-![Checkout Page Screenshot](./screenshots/checkout.png)
+![Checkout Page Screenshot](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/checkout.png)
 *Proceed to order your food with a simple and intuitive checkout process.*
 
 ### Admin Dashboard
-![Admin Dashboard Screenshot](./screenshots/admin_dashboard.png)
+![Admin Dashboard Screenshot](https://github.com/Waruni9810/Cravecrip-food-ordering-website/blob/master/admin_dashboard.png)
 *Admins can manage menu items, orders, and users efficiently.*
 
 > **Note:** You can update the screenshots folder path based on where you store them (e.g., `/assets/screenshots/` or `/images/screenshots/`).
